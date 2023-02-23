@@ -1,0 +1,2 @@
+code_index - OTP verify page
+index - login page

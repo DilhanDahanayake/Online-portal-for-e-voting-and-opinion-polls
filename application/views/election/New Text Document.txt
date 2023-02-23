@@ -1,0 +1,2 @@
+edit and vote pages are not using
+view is an old poll result and removed
